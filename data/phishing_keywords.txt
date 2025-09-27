@@ -1,0 +1,10 @@
+password
+login
+verify
+bank
+urgent
+click
+account
+update
+confirm
+security
